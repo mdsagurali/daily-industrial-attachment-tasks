@@ -2,35 +2,27 @@
 
 ## Task Information
 
-- **Date:** 2026-11-19
-- **Course:** Python Backend Development
-- **Assigned By:** Instructor
+- Date:
+- Course: Python Backend Development
+- Assigned By: Instructor
 
-## Task 01: Task Title
+## Task Description
 
-### Description
-Write the task description provided by the instructor.
+Write the assigned task description here.
 
-### Requirements
+## Requirements
+
 - Requirement 01
 - Requirement 02
 
-### Solution
-Explain your implementation.
+## Solution
 
-### Code
-Add your solution or mention the related code file.
+Write your solution here.
 
-### Output
-Add screenshots or output details if required.
+## Learning Outcome
 
-### Status
-Completed
+Write what you learned.
 
----
+## Status
 
-## Daily Tasks
-
-| Day | Date | Tasks | Status |
-|---|---|---|---|
-| Day 01 | 2026-11-19 | [View Tasks](Day-01/README.md) | Complete |
+Pending
